@@ -44,3 +44,9 @@
 - [x] Ajouter le sitemap.xml
 - [x] Ajouter le robots.txt
 - [ ] Vérifier l'accessibilité (WCAG)
+
+## Corrections Vercel
+- [x] Créer vercel.json pour configuration statique
+- [x] Modifier package.json pour build statique uniquement
+- [x] Configurer le build pour Vercel
+- [x] Créer documentation de déploiement
